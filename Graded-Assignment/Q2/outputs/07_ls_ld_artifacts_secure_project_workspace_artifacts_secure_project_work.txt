@@ -1,0 +1,7 @@
+$ ls -ld artifacts/secure_project_workspace artifacts/secure_project_workspace/docs artifacts/secure_project_workspace/src artifacts/secure_project_workspace/reports
+Exit status: 0
+
+drwxrwx--- 5 g2025eb01238 g2025eb01238 4096 Jul  2 10:40 artifacts/secure_project_workspace
+drwxrwx--- 2 g2025eb01238 g2025eb01238 4096 Jul  2 10:40 artifacts/secure_project_workspace/docs
+drwxrwx--- 2 g2025eb01238 g2025eb01238 4096 Jul  2 10:40 artifacts/secure_project_workspace/reports
+drwxrwx--- 2 g2025eb01238 g2025eb01238 4096 Jul  2 10:40 artifacts/secure_project_workspace/src

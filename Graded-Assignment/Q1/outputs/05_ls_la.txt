@@ -1,0 +1,13 @@
+$ ls -la
+Exit status: 0
+
+total 56
+drwxrwxr-x  7 g2025eb01238 g2025eb01238  4096 Jul  2 10:39 .
+drwxr-x--- 19 g2025eb01238 g2025eb01238  4096 Jul  2 10:40 ..
+drwxr-xr-x  5 g2025eb01238 g2025eb01238  4096 Jul  2 10:35 Question1_Linux_Environment_Verification
+drwxr-xr-x  5 g2025eb01238 g2025eb01238  4096 Jul  2 10:35 Question2_Secure_Project_Workspace_Setup
+drwxr-xr-x  5 g2025eb01238 g2025eb01238  4096 Jul  2 10:35 Question3_File_System_and_Link_Analysis
+drwxr-xr-x  5 g2025eb01238 g2025eb01238  4096 Jul  2 10:35 Question4_File_Access_and_IO_Investigation
+drwxr-xr-x  5 g2025eb01238 g2025eb01238  4096 Jul  2 10:39 Question5_Storage_Health_Assessment
+-rw-r--r--  1 g2025eb01238 g2025eb01238   544 Jul  2 10:39 README.md
+-rw-r--r--  1 g2025eb01238 g2025eb01238 22774 Jul  2 10:40 generate_lab_artifacts.py

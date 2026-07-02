@@ -1,0 +1,3 @@
+0read /home/g2025eb01238/CLI-Graded-Assignment/Question5_Storage_Health_Assessment/artifacts/storage_report_draft.txt
+write! /home/g2025eb01238/CLI-Graded-Assignment/Question5_Storage_Health_Assessment/Storage_Assessment_Report.txt
+quit

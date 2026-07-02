@@ -1,0 +1,5 @@
+$ cat artifacts/link_lab/hard_link.txt; cat artifacts/link_lab/symbolic_link.txt
+Exit status: 1
+
+Linux link experiment
+cat: artifacts/link_lab/symbolic_link.txt: No such file or directory

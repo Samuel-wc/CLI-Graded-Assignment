@@ -1,0 +1,10 @@
+$ ls -l artifacts/secure_project_workspace/docs artifacts/secure_project_workspace/reports
+Exit status: 0
+
+artifacts/secure_project_workspace/docs:
+total 0
+-rw-rw---- 1 g2025eb01238 g2025eb01238 0 Jul  2 10:40 plan.txt
+
+artifacts/secure_project_workspace/reports:
+total 0
+-rw-rw---- 1 g2025eb01238 g2025eb01238 0 Jul  2 10:40 system_report.txt

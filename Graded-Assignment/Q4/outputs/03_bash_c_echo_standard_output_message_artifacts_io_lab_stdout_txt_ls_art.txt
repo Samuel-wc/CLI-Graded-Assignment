@@ -1,0 +1,4 @@
+$ bash -c 'echo standard_output_message > artifacts/io_lab/stdout.txt; ls artifacts/io_lab/stdout.txt'
+Exit status: 0
+
+artifacts/io_lab/stdout.txt

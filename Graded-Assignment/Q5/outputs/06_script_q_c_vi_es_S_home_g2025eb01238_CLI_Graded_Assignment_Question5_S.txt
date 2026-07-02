@@ -1,0 +1,4 @@
+$ script -q -c "vi -es -S /home/g2025eb01238/CLI-Graded-Assignment/Question5_Storage_Health_Assessment/artifacts/vi_commands.ex" /home/g2025eb01238/CLI-Graded-Assignment/Question5_Storage_Health_Assessment/outputs/06_vi_editor_creation_transcript.txt
+Exit status: 0
+
+(no output)

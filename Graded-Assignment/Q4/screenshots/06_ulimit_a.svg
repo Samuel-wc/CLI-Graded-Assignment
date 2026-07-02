@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="432" viewBox="0 0 760 432">
+<rect width="100%" height="100%" rx="8" fill="#111827"/>
+<rect x="0" y="0" width="100%" height="32" rx="8" fill="#1f2937"/>
+<circle cx="22" cy="16" r="5" fill="#ef4444"/>
+<circle cx="40" cy="16" r="5" fill="#f59e0b"/>
+<circle cx="58" cy="16" r="5" fill="#10b981"/>
+<text x="24" y="58" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="14" fill="#e5e7eb">
+<tspan x="24" dy="0">$ ulimit -a</tspan>
+<tspan x="24" dy="18">Exit status: 0</tspan>
+<tspan x="24" dy="18"></tspan>
+<tspan x="24" dy="18">real-time non-blocking time  (microseconds, -R) unlimited</tspan>
+<tspan x="24" dy="18">core file size              (blocks, -c) unlimited</tspan>
+<tspan x="24" dy="18">data seg size               (kbytes, -d) unlimited</tspan>
+<tspan x="24" dy="18">scheduling priority                 (-e) 0</tspan>
+<tspan x="24" dy="18">file size                   (blocks, -f) unlimited</tspan>
+<tspan x="24" dy="18">pending signals                     (-i) 31541</tspan>
+<tspan x="24" dy="18">max locked memory           (kbytes, -l) 8192</tspan>
+<tspan x="24" dy="18">max memory size             (kbytes, -m) unlimited</tspan>
+<tspan x="24" dy="18">open files                          (-n) 1048576</tspan>
+<tspan x="24" dy="18">pipe size                (512 bytes, -p) 8</tspan>
+<tspan x="24" dy="18">POSIX message queues         (bytes, -q) 819200</tspan>
+<tspan x="24" dy="18">real-time priority                  (-r) 0</tspan>
+<tspan x="24" dy="18">stack size                  (kbytes, -s) 8192</tspan>
+<tspan x="24" dy="18">cpu time                   (seconds, -t) unlimited</tspan>
+<tspan x="24" dy="18">max user processes                  (-u) unlimited</tspan>
+<tspan x="24" dy="18">virtual memory              (kbytes, -v) unlimited</tspan>
+<tspan x="24" dy="18">file locks                          (-x) unlimited</tspan>
+</text>
+</svg>

@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="324" viewBox="0 0 760 324">
+<rect width="100%" height="100%" rx="8" fill="#111827"/>
+<rect x="0" y="0" width="100%" height="32" rx="8" fill="#1f2937"/>
+<circle cx="22" cy="16" r="5" fill="#ef4444"/>
+<circle cx="40" cy="16" r="5" fill="#f59e0b"/>
+<circle cx="58" cy="16" r="5" fill="#10b981"/>
+<text x="24" y="58" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="14" fill="#e5e7eb">
+<tspan x="24" dy="0">$ df -i</tspan>
+<tspan x="24" dy="18">Exit status: 0</tspan>
+<tspan x="24" dy="18"></tspan>
+<tspan x="24" dy="18">Filesystem                         Inodes  IUsed   IFree IUse% Mounted on</tspan>
+<tspan x="24" dy="18">overlay                           6258720 876079 5382641   14% /</tspan>
+<tspan x="24" dy="18">tmpfs                             1017262     15 1017247    1% /dev</tspan>
+<tspan x="24" dy="18">/dev/sda1                         6258720 876079 5382641   14% /root</tspan>
+<tspan x="24" dy="18">/dev/disk/by-id/google-home-part1  327680  12339  315341    4% /home</tspan>
+<tspan x="24" dy="18">tmpfs                             1017262    169 1017093    1% /dev/tty</tspan>
+<tspan x="24" dy="18">tmpfs                             1017262      1 1017261    1% /tmp/.git</tspan>
+<tspan x="24" dy="18">tmpfs                             1017262      1 1017261    1% /tmp/.agents</tspan>
+<tspan x="24" dy="18">tmpfs                             1017262      1 1017261    1% /tmp/.codex</tspan>
+<tspan x="24" dy="18">tmpfs                             1017262      1 1017261    1% /home/g2025eb01238/.git</tspan>
+<tspan x="24" dy="18">tmpfs                             1017262      1 1017261    1% /home/g2025eb01238/.agents</tspan>
+</text>
+</svg>

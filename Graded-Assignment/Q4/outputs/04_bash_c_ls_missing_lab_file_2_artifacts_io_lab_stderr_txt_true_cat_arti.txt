@@ -1,0 +1,4 @@
+$ bash -c 'ls /missing_lab_file 2> artifacts/io_lab/stderr.txt; true; cat artifacts/io_lab/stderr.txt'
+Exit status: 0
+
+ls: cannot access '/missing_lab_file': No such file or directory

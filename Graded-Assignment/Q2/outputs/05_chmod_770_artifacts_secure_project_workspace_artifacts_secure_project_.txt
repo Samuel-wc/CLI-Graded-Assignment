@@ -1,0 +1,4 @@
+$ chmod 770 artifacts/secure_project_workspace artifacts/secure_project_workspace/docs artifacts/secure_project_workspace/src artifacts/secure_project_workspace/reports
+Exit status: 0
+
+(no output)

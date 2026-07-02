@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1008" height="774" viewBox="0 0 1008 774">
+<rect width="100%" height="100%" rx="8" fill="#111827"/>
+<rect x="0" y="0" width="100%" height="32" rx="8" fill="#1f2937"/>
+<circle cx="22" cy="16" r="5" fill="#ef4444"/>
+<circle cx="40" cy="16" r="5" fill="#f59e0b"/>
+<circle cx="58" cy="16" r="5" fill="#10b981"/>
+<text x="24" y="58" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="14" fill="#e5e7eb">
+<tspan x="24" dy="0">$ findmnt</tspan>
+<tspan x="24" dy="18">Exit status: 0</tspan>
+<tspan x="24" dy="18"></tspan>
+<tspan x="24" dy="18">TARGET                           SOURCE                                                                                           </tspan>
+<tspan x="24" dy="18">/                                overlay                                                                                          </tspan>
+<tspan x="24" dy="18">├─/proc                          proc                                                                                             </tspan>
+<tspan x="24" dy="18">│ └─/proc                        proc                                                                                             </tspan>
+<tspan x="24" dy="18">├─/dev                           tmpfs                                                                                            </tspan>
+<tspan x="24" dy="18">│ ├─/dev/pts                     devpts                                                                                           </tspan>
+<tspan x="24" dy="18">│ ├─/dev/mqueue                  mqueue                                                                                           </tspan>
+<tspan x="24" dy="18">│ ├─/dev/shm                     shm                                                                                              </tspan>
+<tspan x="24" dy="18">│ └─/dev                         tmpfs                                                                                            </tspan>
+<tspan x="24" dy="18">│   ├─/dev/null                  tmpfs[/null]                                                                                     </tspan>
+<tspan x="24" dy="18">│   ├─/dev/zero                  tmpfs[/zero]                                                                                     </tspan>
+<tspan x="24" dy="18">│   ├─/dev/full                  tmpfs[/full]                                                                                     </tspan>
+<tspan x="24" dy="18">│   ├─/dev/random                tmpfs[/random]                                                                                   </tspan>
+<tspan x="24" dy="18">│   ├─/dev/urandom               tmpfs[/urandom]                                                                                  </tspan>
+<tspan x="24" dy="18">│   ├─/dev/tty                   tmpfs[/tty]                                                                                      </tspan>
+<tspan x="24" dy="18">│   └─/dev/pts                   devpts                                                                                           </tspan>
+<tspan x="24" dy="18">├─/sys                           sysfs                                                                                            </tspan>
+<tspan x="24" dy="18">│ ├─/sys/fs/cgroup               cgroup                                                                                           </tspan>
+<tspan x="24" dy="18">│ └─/sys/kernel/security         none                                                                                             </tspan>
+<tspan x="24" dy="18">├─/root                          /dev/sda1[/var/volumes/root-home-directory]                                                      </tspan>
+<tspan x="24" dy="18">├─/home                          /dev/disk/by-id/google-home-part1                                                                </tspan>
+<tspan x="24" dy="18">│ └─/home/g2025eb01238           /dev/disk/by-id/google-home-part1[/g2025eb01238]                                                 </tspan>
+<tspan x="24" dy="18">│   ├─/home/g2025eb01238/.git    tmpfs                                                                                            </tspan>
+<tspan x="24" dy="18">│   ├─/home/g2025eb01238/.agents tmpfs                                                                                            </tspan>
+<tspan x="24" dy="18">│   └─/home/g2025eb01238/.codex  /dev/disk/by-id/google-home-part1[/g2025eb01238/.codex]                                          </tspan>
+<tspan x="24" dy="18">├─/etc/hosts                     /dev/sda1[/var/lib/google/etc/hosts/main]                                                        </tspan>
+<tspan x="24" dy="18">├─/etc/hostname                  /dev/sda1[/var/lib/containerd/io.containerd.grpc.v1.cri/sandboxes/a4f11bbb71ce4870585d64a06d19b8a</tspan>
+<tspan x="24" dy="18">├─/etc/resolv.conf               /dev/sda1[/var/lib/containerd/io.containerd.grpc.v1.cri/sandboxes/a4f11bbb71ce4870585d64a06d19b8a</tspan>
+<tspan x="24" dy="18">├─/var/config/tmux               /dev/sda1[/var/volumes/tmux]                                                                     </tspan>
+<tspan x="24" dy="18">├─/etc/ssh/keys                  /dev/sda1[/var/volumes/ssh-keys]                                                                 </tspan>
+<tspan x="24" dy="18">├─/var/lib/docker                /dev/sda1[/var/lib/containerd/io.containerd.grpc.v1.cri/containers/8076988064acce7989c7c299019be4</tspan>
+<tspan x="24" dy="18">├─/run/google/devshell           /dev/sda1[/var/volumes/devshell-client-ports]                                                    </tspan>
+<tspan x="24" dy="18">└─/tmp                           overlay[/tmp]                                                                                    </tspan>
+<tspan x="24" dy="18">  ├─/tmp/.git                    tmpfs                                                                                            </tspan>
+<tspan x="24" dy="18">  ├─/tmp/.agents                 tmpfs                                                                                            </tspan>
+<tspan x="24" dy="18">  └─/tmp/.codex                  tmpfs                                                                                            </tspan>
+</text>
+</svg>

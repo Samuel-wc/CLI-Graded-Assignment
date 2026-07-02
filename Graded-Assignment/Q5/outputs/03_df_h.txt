@@ -1,0 +1,14 @@
+$ df -h
+Exit status: 0
+
+Filesystem                         Size  Used Avail Use% Mounted on
+overlay                             95G   45G   50G  48% /
+tmpfs                              3.9G     0  3.9G   0% /dev
+/dev/sda1                           95G   45G   50G  48% /root
+/dev/disk/by-id/google-home-part1  4.8G  1.6G  3.0G  36% /home
+tmpfs                               64M     0   64M   0% /dev/tty
+tmpfs                              3.9G     0  3.9G   0% /tmp/.git
+tmpfs                              3.9G     0  3.9G   0% /tmp/.agents
+tmpfs                              3.9G     0  3.9G   0% /tmp/.codex
+tmpfs                              3.9G     0  3.9G   0% /home/g2025eb01238/.git
+tmpfs                              3.9G     0  3.9G   0% /home/g2025eb01238/.agents

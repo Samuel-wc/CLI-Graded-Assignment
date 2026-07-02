@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="576" viewBox="0 0 760 576">
+<rect width="100%" height="100%" rx="8" fill="#111827"/>
+<rect x="0" y="0" width="100%" height="32" rx="8" fill="#1f2937"/>
+<circle cx="22" cy="16" r="5" fill="#ef4444"/>
+<circle cx="40" cy="16" r="5" fill="#f59e0b"/>
+<circle cx="58" cy="16" r="5" fill="#10b981"/>
+<text x="24" y="58" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="14" fill="#e5e7eb">
+<tspan x="24" dy="0">$ lsblk</tspan>
+<tspan x="24" dy="18">Exit status: 0</tspan>
+<tspan x="24" dy="18"></tspan>
+<tspan x="24" dy="18">NAME    MAJ:MIN RM  SIZE RO TYPE MOUNTPOINTS</tspan>
+<tspan x="24" dy="18">sda       8:0    0  100G  0 disk </tspan>
+<tspan x="24" dy="18">├─sda1    8:1    0 95.8G  0 part /run/google/devshell</tspan>
+<tspan x="24" dy="18">│                                /var/lib/docker</tspan>
+<tspan x="24" dy="18">│                                /etc/ssh/keys</tspan>
+<tspan x="24" dy="18">│                                /var/config/tmux</tspan>
+<tspan x="24" dy="18">│                                /etc/resolv.conf</tspan>
+<tspan x="24" dy="18">│                                /etc/hostname</tspan>
+<tspan x="24" dy="18">│                                /etc/hosts</tspan>
+<tspan x="24" dy="18">│                                /root</tspan>
+<tspan x="24" dy="18">├─sda2    8:2    0   16M  0 part </tspan>
+<tspan x="24" dy="18">├─sda3    8:3    0    2G  0 part </tspan>
+<tspan x="24" dy="18">├─sda4    8:4    0   16M  0 part </tspan>
+<tspan x="24" dy="18">├─sda5    8:5    0    2G  0 part </tspan>
+<tspan x="24" dy="18">├─sda6    8:6    0  512B  0 part </tspan>
+<tspan x="24" dy="18">├─sda7    8:7    0  512B  0 part </tspan>
+<tspan x="24" dy="18">├─sda8    8:8    0   16M  0 part </tspan>
+<tspan x="24" dy="18">├─sda9    8:9    0  512B  0 part </tspan>
+<tspan x="24" dy="18">├─sda10   8:10   0  512B  0 part </tspan>
+<tspan x="24" dy="18">├─sda11   8:11   0    8M  0 part </tspan>
+<tspan x="24" dy="18">└─sda12   8:12   0   32M  0 part </tspan>
+<tspan x="24" dy="18">sdb       8:16   0    5G  0 disk </tspan>
+<tspan x="24" dy="18">└─sdb1    8:17   0    5G  0 part /home/g2025eb01238/.codex</tspan>
+<tspan x="24" dy="18">                                 /home/g2025eb01238</tspan>
+<tspan x="24" dy="18">                                 /home</tspan>
+</text>
+</svg>

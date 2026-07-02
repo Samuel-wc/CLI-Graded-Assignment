@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1008" height="558" viewBox="0 0 1008 558">
+<rect width="100%" height="100%" rx="8" fill="#111827"/>
+<rect x="0" y="0" width="100%" height="32" rx="8" fill="#1f2937"/>
+<circle cx="22" cy="16" r="5" fill="#ef4444"/>
+<circle cx="40" cy="16" r="5" fill="#f59e0b"/>
+<circle cx="58" cy="16" r="5" fill="#10b981"/>
+<text x="24" y="58" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="14" fill="#e5e7eb">
+<tspan x="24" dy="0">$ stat artifacts/secure_project_workspace artifacts/secure_project_workspace/docs/plan.txt artifacts/secure_project_workspace/repo</tspan>
+<tspan x="24" dy="18">Exit status: 0</tspan>
+<tspan x="24" dy="18"></tspan>
+<tspan x="24" dy="18">  File: artifacts/secure_project_workspace</tspan>
+<tspan x="24" dy="18">  Size: 4096      	Blocks: 8          IO Block: 4096   directory</tspan>
+<tspan x="24" dy="18">Device: 8,17	Inode: 143316      Links: 5</tspan>
+<tspan x="24" dy="18">Access: (0770/drwxrwx---)  Uid: ( 1000/g2025eb01238)   Gid: ( 1000/g2025eb01238)</tspan>
+<tspan x="24" dy="18">Access: 2026-07-02 10:40:27.198338036 +0000</tspan>
+<tspan x="24" dy="18">Modify: 2026-07-02 10:40:27.198338036 +0000</tspan>
+<tspan x="24" dy="18">Change: 2026-07-02 10:40:27.215339678 +0000</tspan>
+<tspan x="24" dy="18"> Birth: 2026-07-02 10:40:27.198338036 +0000</tspan>
+<tspan x="24" dy="18">  File: artifacts/secure_project_workspace/docs/plan.txt</tspan>
+<tspan x="24" dy="18">  Size: 0         	Blocks: 0          IO Block: 4096   regular empty file</tspan>
+<tspan x="24" dy="18">Device: 8,17	Inode: 143322      Links: 1</tspan>
+<tspan x="24" dy="18">Access: (0660/-rw-rw----)  Uid: ( 1000/g2025eb01238)   Gid: ( 1000/g2025eb01238)</tspan>
+<tspan x="24" dy="18">Access: 2026-07-02 10:40:27.203338519 +0000</tspan>
+<tspan x="24" dy="18">Modify: 2026-07-02 10:40:27.203338519 +0000</tspan>
+<tspan x="24" dy="18">Change: 2026-07-02 10:40:27.220340162 +0000</tspan>
+<tspan x="24" dy="18"> Birth: 2026-07-02 10:40:27.203338519 +0000</tspan>
+<tspan x="24" dy="18">  File: artifacts/secure_project_workspace/reports/system_report.txt</tspan>
+<tspan x="24" dy="18">  Size: 0         	Blocks: 0          IO Block: 4096   regular empty file</tspan>
+<tspan x="24" dy="18">Device: 8,17	Inode: 143323      Links: 1</tspan>
+<tspan x="24" dy="18">Access: (0660/-rw-rw----)  Uid: ( 1000/g2025eb01238)   Gid: ( 1000/g2025eb01238)</tspan>
+<tspan x="24" dy="18">Access: 2026-07-02 10:40:27.203338519 +0000</tspan>
+<tspan x="24" dy="18">Modify: 2026-07-02 10:40:27.203338519 +0000</tspan>
+<tspan x="24" dy="18">Change: 2026-07-02 10:40:27.220340162 +0000</tspan>
+<tspan x="24" dy="18"> Birth: 2026-07-02 10:40:27.203338519 +0000</tspan>
+</text>
+</svg>

@@ -1,0 +1,5 @@
+$ timeout 12 bash -c 'ping -c 4 -W 2 google.com || getent hosts google.com'
+Exit status: 2
+
+ping: socktype: SOCK_DGRAM
+ping: socket: Operation not permitted

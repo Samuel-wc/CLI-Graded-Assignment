@@ -1,0 +1,14 @@
+1. lsblk
+The lsblk command displayed storage devices and partitions.
+
+2. df -h
+The df -h command displayed mounted file systems and usage.
+
+3. du -sh
+The du -sh command summarized disk usage for the home directory.
+
+4. df -i
+The df -i command displayed inode usage.
+
+5. Storage Assessment
+The storage commands helped check disk space and inode availability.

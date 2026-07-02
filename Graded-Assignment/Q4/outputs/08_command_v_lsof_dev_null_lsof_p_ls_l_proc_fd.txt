@@ -1,0 +1,8 @@
+$ command -v lsof >/dev/null && lsof -p $$ || ls -l /proc/$$/fd
+Exit status: 0
+
+total 0
+lr-x------ 1 g2025eb01238 g2025eb01238 64 Jul  2 10:40 0 -> /dev/null
+l-wx------ 1 g2025eb01238 g2025eb01238 64 Jul  2 10:40 1 -> pipe:[151924]
+l-wx------ 1 g2025eb01238 g2025eb01238 64 Jul  2 10:40 2 -> pipe:[151924]
+lr-x------ 1 g2025eb01238 g2025eb01238 64 Jul  2 10:40 3 -> /proc/56/fd

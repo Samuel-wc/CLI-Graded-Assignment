@@ -1,0 +1,6 @@
+$ cat artifacts/link_lab/original.txt artifacts/link_lab/hard_link.txt artifacts/link_lab/symbolic_link.txt
+Exit status: 0
+
+Linux link experiment
+Linux link experiment
+Linux link experiment

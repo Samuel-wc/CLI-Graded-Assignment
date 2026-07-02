@@ -1,0 +1,4 @@
+$ echo $SHELL
+Exit status: 0
+
+/bin/bash

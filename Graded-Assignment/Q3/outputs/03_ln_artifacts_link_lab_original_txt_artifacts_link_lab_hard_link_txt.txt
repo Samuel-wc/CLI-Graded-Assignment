@@ -1,0 +1,4 @@
+$ ln artifacts/link_lab/original.txt artifacts/link_lab/hard_link.txt
+Exit status: 0
+
+(no output)

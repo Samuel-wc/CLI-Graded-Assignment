@@ -1,0 +1,14 @@
+1. lsof
+The lsof command displayed open files and active processes.
+
+2. File Descriptors
+The /proc/self/fd directory showed descriptors 0, 1 and 2.
+
+3. Output Redirection
+The > operator saved command output into a file.
+
+4. Error Redirection
+The 2> operator saved the error message into a file.
+
+5. Resource Limits
+The ulimit command displayed operating system limits.

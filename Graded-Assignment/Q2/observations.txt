@@ -1,0 +1,14 @@
+1. mkdir
+The mkdir command created the workspace folders.
+
+2. ls -ld
+The ls -ld command showed permissions and ownership.
+
+3. chmod 700
+The chmod command restricted access to the directory.
+
+4. umask
+The umask command displayed the default permission mask.
+
+5. Ownership
+Ownership confirmed that the current user controls the workspace.

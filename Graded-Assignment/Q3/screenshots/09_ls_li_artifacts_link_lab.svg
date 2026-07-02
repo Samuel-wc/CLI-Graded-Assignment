@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="808" height="220" viewBox="0 0 808 220">
+<rect width="100%" height="100%" rx="8" fill="#111827"/>
+<rect x="0" y="0" width="100%" height="32" rx="8" fill="#1f2937"/>
+<circle cx="22" cy="16" r="5" fill="#ef4444"/>
+<circle cx="40" cy="16" r="5" fill="#f59e0b"/>
+<circle cx="58" cy="16" r="5" fill="#10b981"/>
+<text x="24" y="58" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="14" fill="#e5e7eb">
+<tspan x="24" dy="0">$ ls -li artifacts/link_lab</tspan>
+<tspan x="24" dy="18">Exit status: 0</tspan>
+<tspan x="24" dy="18"></tspan>
+<tspan x="24" dy="18">total 4</tspan>
+<tspan x="24" dy="18">143343 -rw-r--r-- 1 g2025eb01238 g2025eb01238 22 Jul  2 10:40 hard_link.txt</tspan>
+<tspan x="24" dy="18">143348 lrwxrwxrwx 1 g2025eb01238 g2025eb01238 12 Jul  2 10:40 symbolic_link.txt -&gt; original.txt</tspan>
+</text>
+</svg>

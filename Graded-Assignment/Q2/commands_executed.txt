@@ -1,0 +1,9 @@
+1. umask
+2. mkdir -p artifacts/secure_project_workspace/{docs,src,reports}
+3. touch artifacts/secure_project_workspace/docs/plan.txt artifacts/secure_project_workspace/reports/system_report.txt
+4. ls -lR artifacts/secure_project_workspace
+5. chmod 770 artifacts/secure_project_workspace artifacts/secure_project_workspace/docs artifacts/secure_project_workspace/src artifacts/secure_project_workspace/reports
+6. chmod 660 artifacts/secure_project_workspace/docs/plan.txt artifacts/secure_project_workspace/reports/system_report.txt
+7. ls -ld artifacts/secure_project_workspace artifacts/secure_project_workspace/docs artifacts/secure_project_workspace/src artifacts/secure_project_workspace/reports
+8. ls -l artifacts/secure_project_workspace/docs artifacts/secure_project_workspace/reports
+9. stat artifacts/secure_project_workspace artifacts/secure_project_workspace/docs/plan.txt artifacts/secure_project_workspace/reports/system_report.txt

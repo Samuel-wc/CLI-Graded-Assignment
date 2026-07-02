@@ -1,0 +1,8 @@
+1. mkdir -p artifacts/io_lab
+2. bash -c 'exec 3> artifacts/io_lab/application.log; echo "log entry through fd 3" >&3; ls -l /proc/$$/fd; readlink /proc/$$/fd/3'
+3. bash -c 'echo standard_output_message > artifacts/io_lab/stdout.txt; ls artifacts/io_lab/stdout.txt'
+4. bash -c 'ls /missing_lab_file 2> artifacts/io_lab/stderr.txt; true; cat artifacts/io_lab/stderr.txt'
+5. bash -c 'echo visible_output > artifacts/io_lab/combined.txt; ls /missing_again >> artifacts/io_lab/combined.txt 2>&1; cat artifacts/io_lab/combined.txt'
+6. ulimit -a
+7. ls -l artifacts/io_lab
+8. command -v lsof >/dev/null && lsof -p $$ || ls -l /proc/$$/fd

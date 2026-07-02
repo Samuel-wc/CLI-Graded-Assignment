@@ -1,0 +1,4 @@
+$ id
+Exit status: 0
+
+uid=1000(g2025eb01238) gid=1000(g2025eb01238) groups=1000(g2025eb01238),65534(nogroup)

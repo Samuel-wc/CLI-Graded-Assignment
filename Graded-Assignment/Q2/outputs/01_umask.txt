@@ -1,0 +1,4 @@
+$ umask
+Exit status: 0
+
+0022

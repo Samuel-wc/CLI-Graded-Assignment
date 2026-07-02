@@ -1,0 +1,4 @@
+$ ln -s original.txt artifacts/link_lab/symbolic_link.txt
+Exit status: 0
+
+(no output)

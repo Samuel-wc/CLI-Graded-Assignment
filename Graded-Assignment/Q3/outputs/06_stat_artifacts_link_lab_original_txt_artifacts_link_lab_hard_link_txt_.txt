@@ -1,0 +1,27 @@
+$ stat artifacts/link_lab/original.txt artifacts/link_lab/hard_link.txt artifacts/link_lab/symbolic_link.txt
+Exit status: 0
+
+  File: artifacts/link_lab/original.txt
+  Size: 22        	Blocks: 8          IO Block: 4096   regular file
+Device: 8,17	Inode: 143343      Links: 2
+Access: (0644/-rw-r--r--)  Uid: ( 1000/g2025eb01238)   Gid: ( 1000/g2025eb01238)
+Access: 2026-07-02 10:40:27.251343158 +0000
+Modify: 2026-07-02 10:40:27.251343158 +0000
+Change: 2026-07-02 10:40:27.257343738 +0000
+ Birth: 2026-07-02 10:40:27.251343158 +0000
+  File: artifacts/link_lab/hard_link.txt
+  Size: 22        	Blocks: 8          IO Block: 4096   regular file
+Device: 8,17	Inode: 143343      Links: 2
+Access: (0644/-rw-r--r--)  Uid: ( 1000/g2025eb01238)   Gid: ( 1000/g2025eb01238)
+Access: 2026-07-02 10:40:27.251343158 +0000
+Modify: 2026-07-02 10:40:27.251343158 +0000
+Change: 2026-07-02 10:40:27.257343738 +0000
+ Birth: 2026-07-02 10:40:27.251343158 +0000
+  File: artifacts/link_lab/symbolic_link.txt -> original.txt
+  Size: 12        	Blocks: 0          IO Block: 4096   symbolic link
+Device: 8,17	Inode: 143348      Links: 1
+Access: (0777/lrwxrwxrwx)  Uid: ( 1000/g2025eb01238)   Gid: ( 1000/g2025eb01238)
+Access: 2026-07-02 10:40:27.262344221 +0000
+Modify: 2026-07-02 10:40:27.262344221 +0000
+Change: 2026-07-02 10:40:27.262344221 +0000
+ Birth: 2026-07-02 10:40:27.262344221 +0000

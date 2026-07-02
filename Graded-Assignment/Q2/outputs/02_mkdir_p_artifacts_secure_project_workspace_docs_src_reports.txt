@@ -1,0 +1,4 @@
+$ mkdir -p artifacts/secure_project_workspace/{docs,src,reports}
+Exit status: 0
+
+(no output)

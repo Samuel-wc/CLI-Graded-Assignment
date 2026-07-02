@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="220" viewBox="0 0 760 220">
+<rect width="100%" height="100%" rx="8" fill="#111827"/>
+<rect x="0" y="0" width="100%" height="32" rx="8" fill="#1f2937"/>
+<circle cx="22" cy="16" r="5" fill="#ef4444"/>
+<circle cx="40" cy="16" r="5" fill="#f59e0b"/>
+<circle cx="58" cy="16" r="5" fill="#10b981"/>
+<text x="24" y="58" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="14" fill="#e5e7eb">
+<tspan x="24" dy="0">$ command -v lsof &gt;/dev/null &amp;&amp; lsof -p $$ || ls -l /proc/$$/fd</tspan>
+<tspan x="24" dy="18">Exit status: 0</tspan>
+<tspan x="24" dy="18"></tspan>
+<tspan x="24" dy="18">total 0</tspan>
+<tspan x="24" dy="18">lr-x------ 1 g2025eb01238 g2025eb01238 64 Jul  2 10:40 0 -&gt; /dev/null</tspan>
+<tspan x="24" dy="18">l-wx------ 1 g2025eb01238 g2025eb01238 64 Jul  2 10:40 1 -&gt; pipe:[151924]</tspan>
+<tspan x="24" dy="18">l-wx------ 1 g2025eb01238 g2025eb01238 64 Jul  2 10:40 2 -&gt; pipe:[151924]</tspan>
+<tspan x="24" dy="18">lr-x------ 1 g2025eb01238 g2025eb01238 64 Jul  2 10:40 3 -&gt; /proc/56/fd</tspan>
+</text>
+</svg>

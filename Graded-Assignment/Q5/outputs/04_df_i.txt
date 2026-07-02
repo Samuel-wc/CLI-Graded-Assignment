@@ -1,0 +1,14 @@
+$ df -i
+Exit status: 0
+
+Filesystem                         Inodes  IUsed   IFree IUse% Mounted on
+overlay                           6258720 876079 5382641   14% /
+tmpfs                             1017262     15 1017247    1% /dev
+/dev/sda1                         6258720 876079 5382641   14% /root
+/dev/disk/by-id/google-home-part1  327680  12339  315341    4% /home
+tmpfs                             1017262    169 1017093    1% /dev/tty
+tmpfs                             1017262      1 1017261    1% /tmp/.git
+tmpfs                             1017262      1 1017261    1% /tmp/.agents
+tmpfs                             1017262      1 1017261    1% /tmp/.codex
+tmpfs                             1017262      1 1017261    1% /home/g2025eb01238/.git
+tmpfs                             1017262      1 1017261    1% /home/g2025eb01238/.agents

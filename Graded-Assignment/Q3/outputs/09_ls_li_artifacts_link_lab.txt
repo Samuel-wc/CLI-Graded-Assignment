@@ -1,0 +1,6 @@
+$ ls -li artifacts/link_lab
+Exit status: 0
+
+total 4
+143343 -rw-r--r-- 1 g2025eb01238 g2025eb01238 22 Jul  2 10:40 hard_link.txt
+143348 lrwxrwxrwx 1 g2025eb01238 g2025eb01238 12 Jul  2 10:40 symbolic_link.txt -> original.txt

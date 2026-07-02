@@ -1,0 +1,25 @@
+Secure Project Workspace Report
+
+1. Directory Structure Created
+ProjectWorkspace
+  Documents
+  Reports
+
+2. Permissions Before Modification
+Default permissions were assigned automatically by the system when the directory was created.
+
+3. Permissions After Modification
+Permission changed using chmod 700 ProjectWorkspace.
+Owner: Read, Write, Execute
+Group: No Permission
+Others: No Permission
+
+4. Ownership Details
+Owner: current user
+Group: current user group
+
+5. Umask Value Used
+0022
+
+6. Security Purpose
+Restrictive permissions protect the workspace so only the owner can access it.

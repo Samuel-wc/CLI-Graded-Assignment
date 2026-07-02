@@ -1,0 +1,23 @@
+Question 5 - Storage Health Assessment and Documentation
+========================================================
+
+Storage Commands Reviewed
+-------------------------
+- lsblk identified available block devices and mount points.
+- findmnt showed mounted file systems in the Linux directory tree.
+- df -h reported disk capacity, used space, available space, and usage percentage.
+- df -i reported inode capacity and inode usage.
+- du -sh . estimated the size of the assignment workspace.
+
+Storage Health Observations
+---------------------------
+The environment has mounted file systems available for normal lab work.
+Disk usage and inode usage should both be monitored because either one can prevent new files from being created.
+No manual partition changes were performed during this assessment.
+
+Recommendations
+---------------
+Remove unnecessary temporary files and old logs regularly.
+Monitor both disk usage percentage and inode usage percentage.
+Keep project data organized in separate directories to make cleanup and reporting easier.
+Use alerts before file systems reach high utilization.

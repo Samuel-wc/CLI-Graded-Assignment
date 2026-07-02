@@ -1,0 +1,8 @@
+$ ls -l artifacts/io_lab
+Exit status: 0
+
+total 16
+-rw-r--r-- 1 g2025eb01238 g2025eb01238 23 Jul  2 10:40 application.log
+-rw-r--r-- 1 g2025eb01238 g2025eb01238 77 Jul  2 10:40 combined.txt
+-rw-r--r-- 1 g2025eb01238 g2025eb01238 65 Jul  2 10:40 stderr.txt
+-rw-r--r-- 1 g2025eb01238 g2025eb01238 24 Jul  2 10:40 stdout.txt

@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="378" viewBox="0 0 760 378">
+<rect width="100%" height="100%" rx="8" fill="#111827"/>
+<rect x="0" y="0" width="100%" height="32" rx="8" fill="#1f2937"/>
+<circle cx="22" cy="16" r="5" fill="#ef4444"/>
+<circle cx="40" cy="16" r="5" fill="#f59e0b"/>
+<circle cx="58" cy="16" r="5" fill="#10b981"/>
+<text x="24" y="58" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="14" fill="#e5e7eb">
+<tspan x="24" dy="0">$ cat observations.txt</tspan>
+<tspan x="24" dy="18">Exit status: 0</tspan>
+<tspan x="24" dy="18"></tspan>
+<tspan x="24" dy="18">1. lsblk</tspan>
+<tspan x="24" dy="18">The lsblk command displayed storage devices and partitions.</tspan>
+<tspan x="24" dy="18"></tspan>
+<tspan x="24" dy="18">2. df -h</tspan>
+<tspan x="24" dy="18">The df -h command displayed mounted file systems and usage.</tspan>
+<tspan x="24" dy="18"></tspan>
+<tspan x="24" dy="18">3. du -sh</tspan>
+<tspan x="24" dy="18">The du -sh command summarized disk usage for the home directory.</tspan>
+<tspan x="24" dy="18"></tspan>
+<tspan x="24" dy="18">4. df -i</tspan>
+<tspan x="24" dy="18">The df -i command displayed inode usage.</tspan>
+<tspan x="24" dy="18"></tspan>
+<tspan x="24" dy="18">5. Storage Assessment</tspan>
+<tspan x="24" dy="18">The storage commands helped check disk space and inode availability.</tspan>
+</text>
+</svg>

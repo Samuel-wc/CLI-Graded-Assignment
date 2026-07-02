@@ -1,0 +1,4 @@
+$ chmod 660 artifacts/secure_project_workspace/docs/plan.txt artifacts/secure_project_workspace/reports/system_report.txt
+Exit status: 0
+
+(no output)

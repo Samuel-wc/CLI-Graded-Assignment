@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="808" height="468" viewBox="0 0 808 468">
+<rect width="100%" height="100%" rx="8" fill="#111827"/>
+<rect x="0" y="0" width="100%" height="32" rx="8" fill="#1f2937"/>
+<circle cx="22" cy="16" r="5" fill="#ef4444"/>
+<circle cx="40" cy="16" r="5" fill="#f59e0b"/>
+<circle cx="58" cy="16" r="5" fill="#10b981"/>
+<text x="24" y="58" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="14" fill="#e5e7eb">
+<tspan x="24" dy="0">$ cat IO_Investigation_Report.txt</tspan>
+<tspan x="24" dy="18">Exit status: 0</tspan>
+<tspan x="24" dy="18"></tspan>
+<tspan x="24" dy="18">File Access and I/O Investigation Report</tspan>
+<tspan x="24" dy="18"></tspan>
+<tspan x="24" dy="18">1. Open Files</tspan>
+<tspan x="24" dy="18">The lsof command was used to identify open files and the processes using them.</tspan>
+<tspan x="24" dy="18"></tspan>
+<tspan x="24" dy="18">2. File Descriptors</tspan>
+<tspan x="24" dy="18">The /proc/self/fd directory showed file descriptors. Standard input is 0, standard output is 1,</tspan>
+<tspan x="24" dy="18">and standard error is 2.</tspan>
+<tspan x="24" dy="18"></tspan>
+<tspan x="24" dy="18">3. Output and Error Redirection</tspan>
+<tspan x="24" dy="18">The &gt; operator redirected output into output.txt. The 2&gt; operator redirected errors into</tspan>
+<tspan x="24" dy="18">error.txt.</tspan>
+<tspan x="24" dy="18"></tspan>
+<tspan x="24" dy="18">4. Resource Limits</tspan>
+<tspan x="24" dy="18">The ulimit -a command displayed system resource limits related to files, memory and processes.</tspan>
+<tspan x="24" dy="18"></tspan>
+<tspan x="24" dy="18">5. Linux I/O</tspan>
+<tspan x="24" dy="18">Linux uses file descriptors to manage input and output streams, and redirection sends those</tspan>
+<tspan x="24" dy="18">streams to files instead of the terminal.</tspan>
+</text>
+</svg>

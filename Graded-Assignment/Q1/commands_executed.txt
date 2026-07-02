@@ -1,0 +1,6 @@
+1. whoami
+2. id
+3. echo $SHELL
+4. pwd
+5. ls -la
+6. timeout 12 bash -c 'ping -c 4 -W 2 google.com || getent hosts google.com'

@@ -1,0 +1,4 @@
+$ rm artifacts/link_lab/original.txt
+Exit status: 0
+
+(no output)

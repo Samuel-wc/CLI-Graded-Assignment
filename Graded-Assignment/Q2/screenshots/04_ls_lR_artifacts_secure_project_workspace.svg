@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="414" viewBox="0 0 760 414">
+<rect width="100%" height="100%" rx="8" fill="#111827"/>
+<rect x="0" y="0" width="100%" height="32" rx="8" fill="#1f2937"/>
+<circle cx="22" cy="16" r="5" fill="#ef4444"/>
+<circle cx="40" cy="16" r="5" fill="#f59e0b"/>
+<circle cx="58" cy="16" r="5" fill="#10b981"/>
+<text x="24" y="58" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="14" fill="#e5e7eb">
+<tspan x="24" dy="0">$ ls -lR artifacts/secure_project_workspace</tspan>
+<tspan x="24" dy="18">Exit status: 0</tspan>
+<tspan x="24" dy="18"></tspan>
+<tspan x="24" dy="18">artifacts/secure_project_workspace:</tspan>
+<tspan x="24" dy="18">total 12</tspan>
+<tspan x="24" dy="18">drwxr-xr-x 2 g2025eb01238 g2025eb01238 4096 Jul  2 10:40 docs</tspan>
+<tspan x="24" dy="18">drwxr-xr-x 2 g2025eb01238 g2025eb01238 4096 Jul  2 10:40 reports</tspan>
+<tspan x="24" dy="18">drwxr-xr-x 2 g2025eb01238 g2025eb01238 4096 Jul  2 10:40 src</tspan>
+<tspan x="24" dy="18"></tspan>
+<tspan x="24" dy="18">artifacts/secure_project_workspace/docs:</tspan>
+<tspan x="24" dy="18">total 0</tspan>
+<tspan x="24" dy="18">-rw-r--r-- 1 g2025eb01238 g2025eb01238 0 Jul  2 10:40 plan.txt</tspan>
+<tspan x="24" dy="18"></tspan>
+<tspan x="24" dy="18">artifacts/secure_project_workspace/reports:</tspan>
+<tspan x="24" dy="18">total 0</tspan>
+<tspan x="24" dy="18">-rw-r--r-- 1 g2025eb01238 g2025eb01238 0 Jul  2 10:40 system_report.txt</tspan>
+<tspan x="24" dy="18"></tspan>
+<tspan x="24" dy="18">artifacts/secure_project_workspace/src:</tspan>
+<tspan x="24" dy="18">total 0</tspan>
+</text>
+</svg>

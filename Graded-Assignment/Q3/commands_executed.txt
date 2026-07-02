@@ -1,0 +1,10 @@
+1. mkdir -p artifacts/link_lab
+2. printf 'Linux link experiment\n' > artifacts/link_lab/original.txt
+3. ln artifacts/link_lab/original.txt artifacts/link_lab/hard_link.txt
+4. ln -s original.txt artifacts/link_lab/symbolic_link.txt
+5. ls -li artifacts/link_lab
+6. stat artifacts/link_lab/original.txt artifacts/link_lab/hard_link.txt artifacts/link_lab/symbolic_link.txt
+7. cat artifacts/link_lab/original.txt artifacts/link_lab/hard_link.txt artifacts/link_lab/symbolic_link.txt
+8. rm artifacts/link_lab/original.txt
+9. ls -li artifacts/link_lab
+10. cat artifacts/link_lab/hard_link.txt; cat artifacts/link_lab/symbolic_link.txt

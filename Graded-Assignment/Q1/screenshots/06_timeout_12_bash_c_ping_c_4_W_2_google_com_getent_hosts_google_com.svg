@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="220" viewBox="0 0 760 220">
+<rect width="100%" height="100%" rx="8" fill="#111827"/>
+<rect x="0" y="0" width="100%" height="32" rx="8" fill="#1f2937"/>
+<circle cx="22" cy="16" r="5" fill="#ef4444"/>
+<circle cx="40" cy="16" r="5" fill="#f59e0b"/>
+<circle cx="58" cy="16" r="5" fill="#10b981"/>
+<text x="24" y="58" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="14" fill="#e5e7eb">
+<tspan x="24" dy="0">$ timeout 12 bash -c &#x27;ping -c 4 -W 2 google.com || getent hosts google.com&#x27;</tspan>
+<tspan x="24" dy="18">Exit status: 2</tspan>
+<tspan x="24" dy="18"></tspan>
+<tspan x="24" dy="18">ping: socktype: SOCK_DGRAM</tspan>
+<tspan x="24" dy="18">ping: socket: Operation not permitted</tspan>
+</text>
+</svg>

@@ -1,0 +1,14 @@
+1. File Creation
+A file named original.txt was created for the experiment.
+
+2. Hard Link
+The hard link shared the same inode as the original file.
+
+3. Symbolic Link
+The symbolic link pointed to the original file path.
+
+4. Metadata
+The stat command displayed file metadata such as inode, permissions and timestamps.
+
+5. File Deletion Test
+Deleting the original file broke the symbolic link but not the hard link.

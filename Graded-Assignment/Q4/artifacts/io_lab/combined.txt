@@ -1,0 +1,2 @@
+visible_output
+ls: cannot access '/missing_again': No such file or directory

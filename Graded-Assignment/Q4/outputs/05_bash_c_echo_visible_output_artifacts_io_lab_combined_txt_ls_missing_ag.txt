@@ -1,0 +1,5 @@
+$ bash -c 'echo visible_output > artifacts/io_lab/combined.txt; ls /missing_again >> artifacts/io_lab/combined.txt 2>&1; cat artifacts/io_lab/combined.txt'
+Exit status: 0
+
+visible_output
+ls: cannot access '/missing_again': No such file or directory

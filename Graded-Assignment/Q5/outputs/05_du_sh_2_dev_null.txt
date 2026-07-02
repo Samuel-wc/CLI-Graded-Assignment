@@ -1,0 +1,4 @@
+$ du -sh . 2>/dev/null
+Exit status: 0
+
+528K	.

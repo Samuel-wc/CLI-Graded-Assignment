@@ -1,0 +1,27 @@
+$ stat artifacts/secure_project_workspace artifacts/secure_project_workspace/docs/plan.txt artifacts/secure_project_workspace/reports/system_report.txt
+Exit status: 0
+
+  File: artifacts/secure_project_workspace
+  Size: 4096      	Blocks: 8          IO Block: 4096   directory
+Device: 8,17	Inode: 143316      Links: 5
+Access: (0770/drwxrwx---)  Uid: ( 1000/g2025eb01238)   Gid: ( 1000/g2025eb01238)
+Access: 2026-07-02 10:40:27.198338036 +0000
+Modify: 2026-07-02 10:40:27.198338036 +0000
+Change: 2026-07-02 10:40:27.215339678 +0000
+ Birth: 2026-07-02 10:40:27.198338036 +0000
+  File: artifacts/secure_project_workspace/docs/plan.txt
+  Size: 0         	Blocks: 0          IO Block: 4096   regular empty file
+Device: 8,17	Inode: 143322      Links: 1
+Access: (0660/-rw-rw----)  Uid: ( 1000/g2025eb01238)   Gid: ( 1000/g2025eb01238)
+Access: 2026-07-02 10:40:27.203338519 +0000
+Modify: 2026-07-02 10:40:27.203338519 +0000
+Change: 2026-07-02 10:40:27.220340162 +0000
+ Birth: 2026-07-02 10:40:27.203338519 +0000
+  File: artifacts/secure_project_workspace/reports/system_report.txt
+  Size: 0         	Blocks: 0          IO Block: 4096   regular empty file
+Device: 8,17	Inode: 143323      Links: 1
+Access: (0660/-rw-rw----)  Uid: ( 1000/g2025eb01238)   Gid: ( 1000/g2025eb01238)
+Access: 2026-07-02 10:40:27.203338519 +0000
+Modify: 2026-07-02 10:40:27.203338519 +0000
+Change: 2026-07-02 10:40:27.220340162 +0000
+ Birth: 2026-07-02 10:40:27.203338519 +0000

@@ -1,0 +1,9 @@
+$ bash -c 'exec 3> artifacts/io_lab/application.log; echo "log entry through fd 3" >&3; ls -l /proc/$$/fd; readlink /proc/$$/fd/3'
+Exit status: 0
+
+total 0
+lr-x------ 1 g2025eb01238 g2025eb01238 64 Jul  2 10:40 0 -> /dev/null
+l-wx------ 1 g2025eb01238 g2025eb01238 64 Jul  2 10:40 1 -> pipe:[151223]
+l-wx------ 1 g2025eb01238 g2025eb01238 64 Jul  2 10:40 2 -> pipe:[151223]
+l-wx------ 1 g2025eb01238 g2025eb01238 64 Jul  2 10:40 3 -> /home/g2025eb01238/CLI-Graded-Assignment/Question4_File_Access_and_IO_Investigation/artifacts/io_lab/application.log
+/home/g2025eb01238/CLI-Graded-Assignment/Question4_File_Access_and_IO_Investigation/artifacts/io_lab/application.log

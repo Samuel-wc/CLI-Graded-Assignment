@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="792" height="576" viewBox="0 0 792 576">
+<rect width="100%" height="100%" rx="8" fill="#111827"/>
+<rect x="0" y="0" width="100%" height="32" rx="8" fill="#1f2937"/>
+<circle cx="22" cy="16" r="5" fill="#ef4444"/>
+<circle cx="40" cy="16" r="5" fill="#f59e0b"/>
+<circle cx="58" cy="16" r="5" fill="#10b981"/>
+<text x="24" y="58" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="14" fill="#e5e7eb">
+<tspan x="24" dy="0">$ cat Project_Workspace_Report.txt</tspan>
+<tspan x="24" dy="18">Exit status: 0</tspan>
+<tspan x="24" dy="18"></tspan>
+<tspan x="24" dy="18">Secure Project Workspace Report</tspan>
+<tspan x="24" dy="18"></tspan>
+<tspan x="24" dy="18">1. Directory Structure Created</tspan>
+<tspan x="24" dy="18">ProjectWorkspace</tspan>
+<tspan x="24" dy="18">Documents</tspan>
+<tspan x="24" dy="18">Reports</tspan>
+<tspan x="24" dy="18"></tspan>
+<tspan x="24" dy="18">2. Permissions Before Modification</tspan>
+<tspan x="24" dy="18">Default permissions were assigned automatically by the system when the directory was created.</tspan>
+<tspan x="24" dy="18"></tspan>
+<tspan x="24" dy="18">3. Permissions After Modification</tspan>
+<tspan x="24" dy="18">Permission changed using chmod 700 ProjectWorkspace.</tspan>
+<tspan x="24" dy="18">Owner: Read, Write, Execute</tspan>
+<tspan x="24" dy="18">Group: No Permission</tspan>
+<tspan x="24" dy="18">Others: No Permission</tspan>
+<tspan x="24" dy="18"></tspan>
+<tspan x="24" dy="18">4. Ownership Details</tspan>
+<tspan x="24" dy="18">Owner: current user</tspan>
+<tspan x="24" dy="18">Group: current user group</tspan>
+<tspan x="24" dy="18"></tspan>
+<tspan x="24" dy="18">5. Umask Value Used</tspan>
+<tspan x="24" dy="18">0022</tspan>
+<tspan x="24" dy="18"></tspan>
+<tspan x="24" dy="18">6. Security Purpose</tspan>
+<tspan x="24" dy="18">Restrictive permissions protect the workspace so only the owner can access it.</tspan>
+</text>
+</svg>

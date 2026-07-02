@@ -1,0 +1,19 @@
+File Access and I/O Investigation Report
+
+1. Open Files
+The lsof command was used to identify open files and the processes using them.
+
+2. File Descriptors
+The /proc/self/fd directory showed file descriptors. Standard input is 0, standard output is 1,
+and standard error is 2.
+
+3. Output and Error Redirection
+The > operator redirected output into output.txt. The 2> operator redirected errors into
+error.txt.
+
+4. Resource Limits
+The ulimit -a command displayed system resource limits related to files, memory and processes.
+
+5. Linux I/O
+Linux uses file descriptors to manage input and output streams, and redirection sends those
+streams to files instead of the terminal.

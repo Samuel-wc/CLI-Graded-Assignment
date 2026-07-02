@@ -1,0 +1,4 @@
+$ mkdir -p artifacts/link_lab
+Exit status: 0
+
+(no output)

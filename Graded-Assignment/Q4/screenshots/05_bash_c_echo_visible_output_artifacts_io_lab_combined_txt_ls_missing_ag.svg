@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1008" height="220" viewBox="0 0 1008 220">
+<rect width="100%" height="100%" rx="8" fill="#111827"/>
+<rect x="0" y="0" width="100%" height="32" rx="8" fill="#1f2937"/>
+<circle cx="22" cy="16" r="5" fill="#ef4444"/>
+<circle cx="40" cy="16" r="5" fill="#f59e0b"/>
+<circle cx="58" cy="16" r="5" fill="#10b981"/>
+<text x="24" y="58" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="14" fill="#e5e7eb">
+<tspan x="24" dy="0">$ bash -c &#x27;echo visible_output &gt; artifacts/io_lab/combined.txt; ls /missing_again &gt;&gt; artifacts/io_lab/combined.txt 2&gt;&amp;1; cat artif</tspan>
+<tspan x="24" dy="18">Exit status: 0</tspan>
+<tspan x="24" dy="18"></tspan>
+<tspan x="24" dy="18">visible_output</tspan>
+<tspan x="24" dy="18">ls: cannot access &#x27;/missing_again&#x27;: No such file or directory</tspan>
+</text>
+</svg>

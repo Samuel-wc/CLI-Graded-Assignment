@@ -1,8 +1,6 @@
-# CLI-Graded-Assignment
+# CLI Graded Assignment
 
-This repository contains the completed graded assignment for Command Line Interfaces & Scripting (Modules 1-4).
-
-## Repository Structure
+## This is the repository structure
 
 ```
 CLI-Graded-Assignment/
@@ -14,14 +12,11 @@ CLI-Graded-Assignment/
 └── Q5/
 ```
 
-## Contents of Each Question Folder
+## Contents of each folder
 
-Each question folder contains:
-- A report file documenting the commands and findings
-- `observations.txt` with short explanations for each command
-- `screenshots/` folder containing evidence screenshots
+Each question folder contains: A report file documenting the commands and findings, `observations.txt` with short explanations for each command and `screenshots/` folder containing evidence screenshots
 
-## Questions Covered
+## All the questions covered
 
 | Folder | Topic |
 |--------|-------|
